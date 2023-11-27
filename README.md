@@ -39,3 +39,27 @@ Push the tag using git push origin Lab2_v1.2.
 Follow the same steps as 7.8 to create a new release named “Lab2_v1.2” on GitHub.
 Remember to test your code thoroughly before committing and pushing, especially for the calc_median_temperature() function to ensure it works correctly.
 
+----------------------------------------------------------------------------------------------------------
+
+
+Inserting a PNG image into a GitHub README file is quite straightforward. Here are the steps to do it:
+
+Upload the Image to Your GitHub Repository:
+
+First, you need to upload the PNG image to your repository. You can place it in any directory, but many people create a specific directory like /images or /assets for organization.
+To upload, navigate to the repository on GitHub, click on 'Add file' > 'Upload files', and then drag and drop your image file. Commit the file to the repository.
+Link the Image in Your README.md File:
+
+Open the README.md file in edit mode.
+To insert the image, you will use the Markdown image syntax which is ![alt text](URL).
+The "alt text" is a brief description of the image, which is helpful for accessibility and SEO.
+The "URL" is the path to the image in your repository. If your repository's URL is https://github.com/yourusername/yourrepository and you have placed the image in an images folder, the URL will be https://github.com/yourusername/yourrepository/blob/main/images/yourimage.png (assuming your default branch is main).
+Here's an example of what the Markdown might look like:
+
+markdown
+Copy code
+![Description of Image](https://github.com/yourusername/yourrepository/blob/main/images/yourimage.png)
+Preview and Commit:
+Use the preview tab in GitHub's editor to make sure the image displays as expected.
+Once confirmed, commit the changes to the README.md file.
+That's it! Your image should now be visible in your README on GitHub. Remember that the path to the image is case-sensitive and should exactly match the path and filename in your repository.
