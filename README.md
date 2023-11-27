@@ -1,6 +1,8 @@
 # LabPractice
 
-[Image PNG Import Git Hub](https://github.com/RonnieThongYH/LabPractice/blob/master/images/3d-render-korean-finger-heart-symbol-i-love-you.png)
+![Image PNG Import Git Hub](https://github.com/RonnieThongYH/LabPractice/blob/master/images/3d-render-korean-finger-heart-symbol-i-love-you.png?raw=true)
+
+
 Exercise 5
 7.5 Add and Commit Changes
 Open your terminal/command prompt and navigate to your local Git repository.
