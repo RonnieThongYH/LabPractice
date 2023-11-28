@@ -2,7 +2,7 @@
 
 ![Image PNG Import Git Hub](https://github.com/RonnieThongYH/LabPractice/blob/master/images/3d-render-korean-finger-heart-symbol-i-love-you.png?raw=true)
 
-
+github cheat sheet link: https://www.linkedin.com/posts/ilyasdeen_git-versioncontrol-100daysofcode-activity-7129630277747806208-zzPw/?utm_source=share&utm_medium=member_ios
 Exercise 5
 7.5 Add and Commit Changes
 Open your terminal/command prompt and navigate to your local Git repository.
